@@ -54,7 +54,7 @@ Python was used to explore the datasets and examine:
 
 ### 1. Indian Airport Performance Dashboard
 
-![Indian Airport Performance Dashboard](Screenshots/Dashboard_1_Airport_Performance.png)
+![Indian Airport Performance Dashboard](dashboard1.jpg)
 
 This dashboard explores airport-level passenger activity through:
 
@@ -65,7 +65,7 @@ This dashboard explores airport-level passenger activity through:
 
 ### 2. Indian Aviation Network Analysis Dashboard
 
-![Indian Aviation Network Analysis Dashboard](Screenshots/Dashboard_2_Aviation_Network.png)
+![Indian Aviation Network Analysis Dashboard](dashboard2.jpg)
 
 This dashboard focuses on airline and aviation network patterns through:
 
